@@ -8,9 +8,16 @@ To make it easier to get into the swamp of homemade keyboards, I'll make a keybo
 ## loadmap
 ざっくり
 - [ ] キーボードの部品選定
-  - [ ] キースイッチ
-  - [ ] キーキャップ
-  - [ ] pico or esp32
+  - [x] キースイッチ
+    - Kailhロープロファイルスイッチ
+  - [x] キーキャップ
+    - Kailhロープロファイルスイッチキャップ
+  - [x] pico or esp32
+    - ESP32C3
+  - [ ] socket
+  - [ ] ダイオード
+  - [ ] LED
+  - [ ] アクリルプレート
 - [ ] CAD：PCBデザイン
   - [ ] デザイン
   - [ ] 基板発注
